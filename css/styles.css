@@ -91,11 +91,14 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   color: #4d5ae5;
-  margin-right: 76px;
 }
 
 .logo .accent {
   color: #2e2f42;
+}
+
+.header-section .logo {
+  margin-right: 76px;
 }
 
 .menu {
@@ -197,7 +200,6 @@ body {
 .advantages-item-title {
   font-weight: 500;
   font-size: 20px;
-  text-indent: 24px;
   color: #2e2f42;
   line-height: 1.2;
   letter-spacing: 0.02em;
